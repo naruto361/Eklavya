@@ -17,7 +17,7 @@ Password: admin
 ## LOGIN
 ![Screenshot (94)](https://user-images.githubusercontent.com/54116115/181231158-25d0b9fb-79a9-4542-8d38-2dea3dbaa811.png)
 
-## MAIN PAGE (index) AFTER LOGIN
+## MAIN PAGE (INDEX) AFTER LOGIN
 ![Screenshot (95)](https://user-images.githubusercontent.com/54116115/181231419-4bd1ffc9-1840-4a77-81b0-82fa414d1720.png)
 
 ## SUBJECT LIST
